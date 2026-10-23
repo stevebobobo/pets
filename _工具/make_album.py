@@ -20,7 +20,7 @@ SECTION_PHOTOS = {
     '大姊家': ['卡蜜兒', '胖胖', '酷蒂'],
 }
 VIDEOS = {'寶寶：': ['寶寶.mp4']}
-SOUNDS = {'寶寶：': ['寶寶_平常的叫聲.mp3', '寶寶_平常的叫聲_短.mp3', '寶寶_生氣的叫聲.mp3', '寶寶_生氣的叫聲_2.mp3']}
+SOUNDS = {'寶寶：': ['寶寶_平常的叫聲.mp3', '寶寶_平常的叫聲_短.mp3', '寶寶_生氣的叫聲.mp3', '寶寶_生氣的叫聲_2.mp3'], '寶寶和乖乖': ['乖乖看到我時的叫聲（我模仿）.mp3', '乖乖高興時的汪汪叫（我模仿）.mp3', '我叫乖乖.mp3']}
 YOUTUBE = {'大姊家': ['zqNDjk-cnGk']}        # BOSS (胖胖)
 ART = os.path.join(ROOT, '_素材')             # VectorCraft drawings: header, divider, favicon
 
