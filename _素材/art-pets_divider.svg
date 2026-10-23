@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="24" viewBox="0 0 160 24">
+  <title>pets_divider</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M14 12 L62 12" fill="none" stroke="#b9a17c" stroke-width="0.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M98 12 L146 12" fill="none" stroke="#b9a17c" stroke-width="0.8" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M75.5 15.2 C75.5 13.212 77.515 11.6 80 11.6 C82.485 11.6 84.5 13.212 84.5 15.2 C84.5 17.188 82.485 18.8 80 18.8 C77.515 18.8 75.5 17.188 75.5 15.2 Z" fill="#8a6d55"/>
+    <path d="M72.5 9.6 C72.5 8.44 73.261 7.5 74.2 7.5 C75.139 7.5 75.9 8.44 75.9 9.6 C75.9 10.76 75.139 11.7 74.2 11.7 C73.261 11.7 72.5 10.76 72.5 9.6 Z" fill="#8a6d55"/>
+    <path d="M76.2 6.6 C76.2 5.44 76.961 4.5 77.9 4.5 C78.839 4.5 79.6 5.44 79.6 6.6 C79.6 7.76 78.839 8.7 77.9 8.7 C76.961 8.7 76.2 7.76 76.2 6.6 Z" fill="#8a6d55"/>
+    <path d="M80.4 6.6 C80.4 5.44 81.161 4.5 82.1 4.5 C83.039 4.5 83.8 5.44 83.8 6.6 C83.8 7.76 83.039 8.7 82.1 8.7 C81.161 8.7 80.4 7.76 80.4 6.6 Z" fill="#8a6d55"/>
+    <path d="M84.1 9.6 C84.1 8.44 84.861 7.5 85.8 7.5 C86.739 7.5 87.5 8.44 87.5 9.6 C87.5 10.76 86.739 11.7 85.8 11.7 C84.861 11.7 84.1 10.76 84.1 9.6 Z" fill="#8a6d55"/>
+  </g>
+</svg>
